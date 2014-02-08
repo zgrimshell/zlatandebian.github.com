@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>RecentChanges</title>
+<link href="http://io/~zlatan/Minorbits/recentchanges/"/>
+<link href="http://io/~zlatan/Minorbits/recentchanges/index.atom" rel="self" type="application/atom+xml"/>
+<author>
+
+<name>Minor bits</name>
+
+</author>
+
+
+
+
+<id>http://io/~zlatan/Minorbits/recentchanges/</id>
+
+<subtitle type="html">Minor bits</subtitle>
+<generator uri="http://ikiwiki.info/">ikiwiki</generator>
+<updated>2014-02-08T22:05:29Z</updated>
+<entry>
+	<title>change to .gitignore archives comments index posts posts/first_post sidebar tags on Minor bits</title>
+
+	<id>http://io/~zlatan/Minorbits/recentchanges/change_493df9c6de0ddaec0bd5d71f56d4e4a0bca73509/</id>
+
+	<link href="http://io/~zlatan/Minorbits/recentchanges/#change-493df9c6de0ddaec0bd5d71f56d4e4a0bca73509"/>
+
+	<author><name>zlatan</name></author>
+
+
+
+
+
+	<updated>2014-02-08T22:05:29Z</updated>
+	<published>2014-02-08T22:05:29Z</published>
+
+
+	<content type="html" xml:lang="en">
+	
+
+
+
+
+
+
+
+&lt;div id=&quot;change-493df9c6de0ddaec0bd5d71f56d4e4a0bca73509&quot; class=&quot;metadata&quot;&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed pages:&lt;/span&gt;
+&lt;span class=&quot;pagelinks&quot;&gt;
+
+
+
+
+&lt;a href=&quot;http://io/~zlatan/Minorbits/ikiwiki.cgi?page=.gitignore&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;.gitignore&lt;/a&gt;
+
+&lt;a href=&quot;http://io/~zlatan/Minorbits/ikiwiki.cgi?page=archives&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;archives&lt;/a&gt;
+
+&lt;a href=&quot;http://io/~zlatan/Minorbits/ikiwiki.cgi?page=comments&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;comments&lt;/a&gt;
+
+&lt;a href=&quot;http://io/~zlatan/Minorbits/ikiwiki.cgi?do=goto&amp;amp;page=index&quot; rel=&quot;nofollow&quot;&gt;index&lt;/a&gt;
+
+&lt;a href=&quot;http://io/~zlatan/Minorbits/ikiwiki.cgi?do=goto&amp;amp;page=posts&quot; rel=&quot;nofollow&quot;&gt;posts&lt;/a&gt;
+
+&lt;a href=&quot;http://io/~zlatan/Minorbits/ikiwiki.cgi?page=posts%2Ffirst_post&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;posts/first post&lt;/a&gt;
+
+&lt;a href=&quot;http://io/~zlatan/Minorbits/ikiwiki.cgi?do=goto&amp;amp;page=sidebar&quot; rel=&quot;nofollow&quot;&gt;sidebar&lt;/a&gt;
+
+&lt;a href=&quot;http://io/~zlatan/Minorbits/ikiwiki.cgi?page=tags&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;tags&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Changed by:&lt;/span&gt;
+&lt;span class=&quot;committer&quot;&gt;
+
+&lt;a href=&quot;http://io/~zlatan/Minorbits/ikiwiki.cgi?page=zlatan&amp;amp;do=goto&quot; rel=&quot;nofollow&quot;&gt;zlatan&lt;/a&gt;
+
+&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Commit type:&lt;/span&gt;
+&lt;span class=&quot;committype&quot;&gt;git&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;Date:&lt;/span&gt;
+&lt;span class=&quot;changedate&quot;&gt;&lt;span class=&quot;date&quot;&gt;11:05:29 PM 02/08/2014&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;desc&quot;&gt;&lt;br /&gt;&lt;/span&gt;
+&lt;span class=&quot;revert&quot;&gt;
+&lt;a href=&quot;http://io/~zlatan/Minorbits/ikiwiki.cgi?do=revert&amp;amp;rev=493df9c6de0ddaec0bd5d71f56d4e4a0bca73509&quot; title=&quot;revert&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://io/~zlatan/Minorbits/recentchanges/../wikiicons/revert.png&quot; alt=&quot;revert&quot; /&gt;&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;changelog&quot;&gt;
+
+
+initial commit&lt;br /&gt;
+
+
+&lt;/div&gt;
+
+
+
+	</content>
+
+
+
+</entry>
+
+</feed>

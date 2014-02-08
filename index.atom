@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>Minor bits</title>
+<link href="http://io/~zlatan/Minorbits/"/>
+<link href="http://io/~zlatan/Minorbits/index.atom" rel="self" type="application/atom+xml"/>
+<author>
+
+<name>Minor bits</name>
+
+</author>
+
+
+
+
+<id>http://io/~zlatan/Minorbits/</id>
+
+<subtitle type="html">Minor bits</subtitle>
+<generator uri="http://ikiwiki.info/">ikiwiki</generator>
+<updated>2014-02-08T22:05:29Z</updated>
+<entry>
+	<title>first post</title>
+
+	<id>http://io/~zlatan/Minorbits/posts/first_post/</id>
+
+	<link href="http://io/~zlatan/Minorbits/posts/first_post/"/>
+
+
+
+
+
+	<updated>2014-02-08T22:05:29Z</updated>
+	<published>2014-02-08T22:05:29Z</published>
+
+
+	<content type="html" xml:lang="en">
+	&lt;p&gt;This is the first post to this example blog. To add new posts, just add
+files to the posts/ subdirectory, or use the web form.&lt;/p&gt;
+
+	</content>
+
+
+	<link rel="comments" href="/~zlatan/Minorbits/posts/first_post/#comments" type="text/html" />
+
+
+	<link rel="comments" href="/~zlatan/Minorbits/posts/first_post/comments.atom" type="application/atom+xml" />
+
+</entry>
+
+</feed>
