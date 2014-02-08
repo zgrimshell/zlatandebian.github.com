@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:dcterms="http://purl.org/dc/terms/" >
+<channel>
+<title>Minor bits</title>
+<link>http://io/~zlatan/Minorbits/</link>
+
+<description>Minor bits</description>
+<generator>ikiwiki</generator>
+<pubDate>Sat, 08 Feb 2014 23:47:45 +0100</pubDate>
+<item>
+	<title>Tralala</title>
+
+	<guid isPermaLink="false">http://io/~zlatan/Minorbits/posts/Tralala/</guid>
+
+	<link>http://io/~zlatan/Minorbits/posts/Tralala/</link>
+
+
+	<pubDate>Sat, 08 Feb 2014 23:47:45 +0100</pubDate>
+	<dcterms:modified>2014-02-08T22:47:45Z</dcterms:modified>
+
+
+	<description>&lt;p&gt;Eo o čemu ti pričam &lt;img src=&quot;http://io/~zlatan/Minorbits/./smileys/biggrin.png&quot; alt=&quot;:D&quot; /&gt;&lt;/p&gt;
+</description>
+
+
+</item>
+
+</channel>
+</rss>

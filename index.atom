@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>Minor bits</title>
+<link href="http://io/~zlatan/Minorbits/"/>
+<link href="http://io/~zlatan/Minorbits/index.atom" rel="self" type="application/atom+xml"/>
+<author>
+
+<name>Minor bits</name>
+
+</author>
+
+
+
+
+<id>http://io/~zlatan/Minorbits/</id>
+
+<subtitle type="html">Minor bits</subtitle>
+<generator uri="http://ikiwiki.info/">ikiwiki</generator>
+<updated>2014-02-08T22:47:45Z</updated>
+<entry>
+	<title>Tralala</title>
+
+	<id>http://io/~zlatan/Minorbits/posts/Tralala/</id>
+
+	<link href="http://io/~zlatan/Minorbits/posts/Tralala/"/>
+
+
+
+
+
+	<updated>2014-02-08T22:47:45Z</updated>
+	<published>2014-02-08T22:47:45Z</published>
+
+
+	<content type="html" xml:lang="en">
+	&lt;p&gt;Eo o čemu ti pričam &lt;img src=&quot;http://io/~zlatan/Minorbits/./smileys/biggrin.png&quot; alt=&quot;:D&quot; /&gt;&lt;/p&gt;
+
+	</content>
+
+
+
+</entry>
+
+</feed>
