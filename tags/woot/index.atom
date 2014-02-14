@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-<title>Minor bits</title>
-<link href="http://io/~zlatan/Minorbits/"/>
-<link href="http://io/~zlatan/Minorbits/index.atom" rel="self" type="application/atom+xml"/>
+<title>pages tagged woot</title>
+<link href="http://io/~zlatan/Minorbits/tags/woot/"/>
+<link href="http://io/~zlatan/Minorbits/tags/woot/index.atom" rel="self" type="application/atom+xml"/>
 <author>
 
 <name>Minor bits</name>
@@ -13,7 +13,7 @@
 
 
 
-<id>http://io/~zlatan/Minorbits/</id>
+<id>http://io/~zlatan/Minorbits/tags/woot/</id>
 
 <subtitle type="html">Minor bits</subtitle>
 <generator uri="http://ikiwiki.info/">ikiwiki</generator>
@@ -40,8 +40,8 @@
 	<content type="html" xml:lang="en">
 	&lt;p&gt;Wooooot!!!&lt;/p&gt;
 
-&lt;pre&gt;&quot;Whom are you?&quot; said he, for he had been to night school.
-        -- George Ade
+&lt;pre&gt; 3990 N   Apr 15 Cute Girlfriend (  45) Erotic Amateur Girlfriends
+ I wasn&#39;t aware you had professional girlfriends as well
 &lt;/pre&gt;
 
 
