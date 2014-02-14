@@ -3,8 +3,8 @@
      xmlns:dc="http://purl.org/dc/elements/1.1/"
      xmlns:dcterms="http://purl.org/dc/terms/" >
 <channel>
-<title>Minor bits</title>
-<link>http://io/~zlatan/Minorbits/</link>
+<title>pages tagged random</title>
+<link>http://io/~zlatan/Minorbits/tags/random/</link>
 
 <description>Minor bits</description>
 <generator>ikiwiki</generator>
@@ -37,9 +37,8 @@
 
 &lt;p&gt;&lt;strong&gt;Debian&lt;/strong&gt;&lt;/p&gt;
 
-&lt;pre&gt;&quot;Well, social relevance is a schtick, like mysteries, social relevance,
-science fiction...&quot;
-        -- Art Spiegelman
+&lt;pre&gt;Never trust an operating system you don&#39;t have sources for. ;-)
+        -- Unknown source
 &lt;/pre&gt;
 
 

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-<title>Minor bits</title>
-<link href="http://io/~zlatan/Minorbits/"/>
-<link href="http://io/~zlatan/Minorbits/index.atom" rel="self" type="application/atom+xml"/>
+<title>pages tagged random</title>
+<link href="http://io/~zlatan/Minorbits/tags/random/"/>
+<link href="http://io/~zlatan/Minorbits/tags/random/index.atom" rel="self" type="application/atom+xml"/>
 <author>
 
 <name>Minor bits</name>
@@ -13,7 +13,7 @@
 
 
 
-<id>http://io/~zlatan/Minorbits/</id>
+<id>http://io/~zlatan/Minorbits/tags/random/</id>
 
 <subtitle type="html">Minor bits</subtitle>
 <generator uri="http://ikiwiki.info/">ikiwiki</generator>
@@ -50,9 +50,8 @@
 
 &lt;p&gt;&lt;strong&gt;Debian&lt;/strong&gt;&lt;/p&gt;
 
-&lt;pre&gt;&quot;Well, social relevance is a schtick, like mysteries, social relevance,
-science fiction...&quot;
-        -- Art Spiegelman
+&lt;pre&gt;Never trust an operating system you don&#39;t have sources for. ;-)
+        -- Unknown source
 &lt;/pre&gt;
 
 

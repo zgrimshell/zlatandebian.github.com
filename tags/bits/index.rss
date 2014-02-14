@@ -3,8 +3,8 @@
      xmlns:dc="http://purl.org/dc/elements/1.1/"
      xmlns:dcterms="http://purl.org/dc/terms/" >
 <channel>
-<title>Minor bits</title>
-<link>http://io/~zlatan/Minorbits/</link>
+<title>pages tagged bits</title>
+<link>http://io/~zlatan/Minorbits/tags/bits/</link>
 
 <description>Minor bits</description>
 <generator>ikiwiki</generator>
@@ -37,9 +37,10 @@
 
 &lt;p&gt;&lt;strong&gt;Debian&lt;/strong&gt;&lt;/p&gt;
 
-&lt;pre&gt;&quot;Well, social relevance is a schtick, like mysteries, social relevance,
-science fiction...&quot;
-        -- Art Spiegelman
+&lt;pre&gt;Half a bee, philosophically, must ipso facto half not be.
+But half the bee has got to be, vis-a-vis its entity.  See?
+But can a bee be said to be or not to be an entire bee,
+When half the bee is not a bee, due to some ancient injury?
 &lt;/pre&gt;
 
 
