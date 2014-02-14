@@ -8,7 +8,7 @@
 
 <description>Minor bits</description>
 <generator>ikiwiki</generator>
-<pubDate>Fri, 14 Feb 2014 16:22:33 +0100</pubDate>
+<pubDate>Fri, 14 Feb 2014 16:24:23 +0100</pubDate>
 <item>
 	<title>Random bits</title>
 
@@ -24,12 +24,12 @@
 
 
 	<pubDate>Fri, 14 Feb 2014 16:22:33 +0100</pubDate>
-	<dcterms:modified>2014-02-14T15:22:33Z</dcterms:modified>
+	<dcterms:modified>2014-02-14T15:24:23Z</dcterms:modified>
 
 
 	<description>&lt;p&gt;This are mine &lt;em&gt;random&lt;/em&gt; bits for my first posting.&lt;/p&gt;
 
-&lt;p&gt;My Debian &lt;span class=&quot;createlink&quot;&gt;QA page&lt;/span&gt;(http://qa.debian.org/developer.php?login=zlatan.todoric%40gmail.com)&lt;/p&gt;
+&lt;p&gt;My Debian &lt;a href=&quot;http://qa.debian.org/developer.php?login=zlatan.todoric%40gmail.com&quot;&gt;QA page&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -37,10 +37,8 @@
 
 &lt;p&gt;&lt;strong&gt;Debian&lt;/strong&gt;&lt;/p&gt;
 
-&lt;pre&gt;Half a bee, philosophically, must ipso facto half not be.
-But half the bee has got to be, vis-a-vis its entity.  See?
-But can a bee be said to be or not to be an entire bee,
-When half the bee is not a bee, due to some ancient injury?
+&lt;pre&gt;All language designers are arrogant.  Goes with the territory... :-)
+        -- Larry Wall in &amp;lt;1991Jul13.010945.19157@netlabs.com
 &lt;/pre&gt;
 
 

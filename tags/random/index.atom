@@ -17,7 +17,7 @@
 
 <subtitle type="html">Minor bits</subtitle>
 <generator uri="http://ikiwiki.info/">ikiwiki</generator>
-<updated>2014-02-14T15:22:33Z</updated>
+<updated>2014-02-14T15:24:23Z</updated>
 <entry>
 	<title>Random bits</title>
 
@@ -35,14 +35,14 @@
 	<category term="random" />
 
 
-	<updated>2014-02-14T15:22:33Z</updated>
+	<updated>2014-02-14T15:24:23Z</updated>
 	<published>2014-02-14T15:22:33Z</published>
 
 
 	<content type="html" xml:lang="en">
 	&lt;p&gt;This are mine &lt;em&gt;random&lt;/em&gt; bits for my first posting.&lt;/p&gt;
 
-&lt;p&gt;My Debian &lt;span class=&quot;createlink&quot;&gt;QA page&lt;/span&gt;(http://qa.debian.org/developer.php?login=zlatan.todoric%40gmail.com)&lt;/p&gt;
+&lt;p&gt;My Debian &lt;a href=&quot;http://qa.debian.org/developer.php?login=zlatan.todoric%40gmail.com&quot;&gt;QA page&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -50,8 +50,21 @@
 
 &lt;p&gt;&lt;strong&gt;Debian&lt;/strong&gt;&lt;/p&gt;
 
-&lt;pre&gt;Never trust an operating system you don&#39;t have sources for. ;-)
-        -- Unknown source
+&lt;pre&gt;A sociologist, a psychologist, and a engineer were discussing the
+consequences and implications of a married man&#39;s having a mistress.  The
+sociologist&#39;s opinion was that it is absolutely and categorically unforgivable
+for a married man to forfeit the bond of matrimony, and engage in such lowly
+and lustful pursuits.
+    The psychologist&#39;s opinion was that although morally reprehensible,
+if a man MUST have a mistress to achieve his full potential as a human being,
+then -- well -- he may go ahead and choose to have a mistress, as long as he
+is considerate enough to keep this secret from his wife.
+    The engineer then interjected: &quot;I also believe that, if necessary,
+a married man is entitled to a mistress.  However, I do not see why the
+affair should be concealed from the wife.  On the contrary, if the affair
+is out in the open, then on Friday evenings he may tell his wife that he
+is going to see his mistress, tell his mistress that he is going to be with
+his wife, then go to his office and get some work done!&quot;
 &lt;/pre&gt;
 
 

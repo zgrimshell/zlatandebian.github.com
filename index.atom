@@ -17,7 +17,7 @@
 
 <subtitle type="html">Minor bits</subtitle>
 <generator uri="http://ikiwiki.info/">ikiwiki</generator>
-<updated>2014-02-14T15:22:33Z</updated>
+<updated>2014-02-14T15:24:23Z</updated>
 <entry>
 	<title>Random bits</title>
 
@@ -35,14 +35,14 @@
 	<category term="random" />
 
 
-	<updated>2014-02-14T15:22:33Z</updated>
+	<updated>2014-02-14T15:24:23Z</updated>
 	<published>2014-02-14T15:22:33Z</published>
 
 
 	<content type="html" xml:lang="en">
 	&lt;p&gt;This are mine &lt;em&gt;random&lt;/em&gt; bits for my first posting.&lt;/p&gt;
 
-&lt;p&gt;My Debian &lt;span class=&quot;createlink&quot;&gt;QA page&lt;/span&gt;(http://qa.debian.org/developer.php?login=zlatan.todoric%40gmail.com)&lt;/p&gt;
+&lt;p&gt;My Debian &lt;a href=&quot;http://qa.debian.org/developer.php?login=zlatan.todoric%40gmail.com&quot;&gt;QA page&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -50,9 +50,8 @@
 
 &lt;p&gt;&lt;strong&gt;Debian&lt;/strong&gt;&lt;/p&gt;
 
-&lt;pre&gt;&quot;Well, social relevance is a schtick, like mysteries, social relevance,
-science fiction...&quot;
-        -- Art Spiegelman
+&lt;pre&gt;Who dat who say &quot;who dat&quot; when I say &quot;who dat&quot;?
+        -- Hattie McDaniel
 &lt;/pre&gt;
 
 
