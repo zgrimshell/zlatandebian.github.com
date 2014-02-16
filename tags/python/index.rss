@@ -8,7 +8,7 @@
 
 <description>Minor bits</description>
 <generator>ikiwiki</generator>
-<pubDate>Sun, 16 Feb 2014 22:58:24 +0100</pubDate>
+<pubDate>Sun, 16 Feb 2014 23:02:56 +0100</pubDate>
 <item>
 	<title>Random bits</title>
 
@@ -38,7 +38,7 @@
 
 
 	<pubDate>Fri, 14 Feb 2014 16:22:33 +0100</pubDate>
-	<dcterms:modified>2014-02-16T21:58:24Z</dcterms:modified>
+	<dcterms:modified>2014-02-16T22:02:56Z</dcterms:modified>
 
 
 	<description>&lt;p&gt;I will write today about some small things that make you are &lt;strong&gt;hacker&lt;/strong&gt;. First of all to understand what hacker means you should read &lt;a href=&quot;http://www.catb.org/esr/faqs/hacker-howto.html&quot;&gt;How To Become A Hacker&lt;/a&gt; by Eric Steven Raymond.&lt;/p&gt;
@@ -51,6 +51,8 @@
 
 &lt;p&gt;Sometimes hacker should really be an artist so he can develop nowdays and GUI (Graphical User Interface) for users that is appealing and doesn&#39;t look like zombie version of CLI app. Lately a nice way to make that is using &lt;a href=&quot;http://nodejs.org/&quot;&gt;nodejs&lt;/a&gt;.&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;http://io/~zlatan/Minorbits/tags/python/../../pics/why.jpg&quot; alt=&quot;hackers&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;Also there is a difference between a hacker and a programmer. While programmer mostly go to school to learn coding and develop software because they choose that for a leaving, for hacker on other side isn&#39;t necessary to go to schools and they do it all for the sake of fun and love towards some specific problem. They code stuff and make it open source because they want people to look at their code, improve it and suggest new features so we all learn from each other ideas and codes.&lt;/p&gt;
 
 &lt;p&gt;Also language that I would suggest for learning is the &lt;strong&gt;mighty&lt;/strong&gt; &lt;a href=&quot;http://www.haskell.org/haskellwiki/Haskell&quot;&gt;Haskell&lt;/a&gt;.&lt;/p&gt;
@@ -61,7 +63,7 @@
 
 &lt;p&gt;And if you want my recommendations which Operating System to use - &lt;a href=&quot;http://www.debian.org/&quot;&gt;Debian&lt;/a&gt; is my choice, choice of many hackers and in general a universal operating system used by Google (its servers), NASA, RapberryPi and many others.&lt;/p&gt;
 
-&lt;pre&gt;You will receive a legacy which will place you above want.
+&lt;pre&gt;Catsup and Mustard all over the place!  It&#39;s the Human Hamburger!
 &lt;/pre&gt;
 
 

@@ -17,7 +17,7 @@
 
 <subtitle type="html">Minor bits</subtitle>
 <generator uri="http://ikiwiki.info/">ikiwiki</generator>
-<updated>2014-02-16T21:58:24Z</updated>
+<updated>2014-02-16T22:02:56Z</updated>
 <entry>
 	<title>Random bits</title>
 
@@ -49,7 +49,7 @@
 	<category term="python" />
 
 
-	<updated>2014-02-16T21:58:24Z</updated>
+	<updated>2014-02-16T22:02:56Z</updated>
 	<published>2014-02-14T15:22:33Z</published>
 
 
@@ -64,6 +64,8 @@
 
 &lt;p&gt;Sometimes hacker should really be an artist so he can develop nowdays and GUI (Graphical User Interface) for users that is appealing and doesn&#39;t look like zombie version of CLI app. Lately a nice way to make that is using &lt;a href=&quot;http://nodejs.org/&quot;&gt;nodejs&lt;/a&gt;.&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;http://io/~zlatan/Minorbits/tags/php/../../pics/why.jpg&quot; alt=&quot;hackers&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;Also there is a difference between a hacker and a programmer. While programmer mostly go to school to learn coding and develop software because they choose that for a leaving, for hacker on other side isn&#39;t necessary to go to schools and they do it all for the sake of fun and love towards some specific problem. They code stuff and make it open source because they want people to look at their code, improve it and suggest new features so we all learn from each other ideas and codes.&lt;/p&gt;
 
 &lt;p&gt;Also language that I would suggest for learning is the &lt;strong&gt;mighty&lt;/strong&gt; &lt;a href=&quot;http://www.haskell.org/haskellwiki/Haskell&quot;&gt;Haskell&lt;/a&gt;.&lt;/p&gt;
@@ -74,8 +76,10 @@
 
 &lt;p&gt;And if you want my recommendations which Operating System to use - &lt;a href=&quot;http://www.debian.org/&quot;&gt;Debian&lt;/a&gt; is my choice, choice of many hackers and in general a universal operating system used by Google (its servers), NASA, RapberryPi and many others.&lt;/p&gt;
 
-&lt;pre&gt;We have art that we do not die of the truth.
-        -- Nietzsche
+&lt;pre&gt;The evolution of the human race will not be accomplished in the ten thousand
+years of tame animals, but in the million years of wild animals, because man
+is and will always be a wild animal.
+        -- Charles Galton Darwin
 &lt;/pre&gt;
 
 
