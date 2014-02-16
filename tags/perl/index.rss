@@ -8,7 +8,7 @@
 
 <description>Minor bits</description>
 <generator>ikiwiki</generator>
-<pubDate>Sun, 16 Feb 2014 23:02:56 +0100</pubDate>
+<pubDate>Sun, 16 Feb 2014 23:11:41 +0100</pubDate>
 <item>
 	<title>Random bits</title>
 
@@ -38,7 +38,7 @@
 
 
 	<pubDate>Fri, 14 Feb 2014 16:22:33 +0100</pubDate>
-	<dcterms:modified>2014-02-16T22:02:56Z</dcterms:modified>
+	<dcterms:modified>2014-02-16T22:11:41Z</dcterms:modified>
 
 
 	<description>&lt;p&gt;I will write today about some small things that make you are &lt;strong&gt;hacker&lt;/strong&gt;. First of all to understand what hacker means you should read &lt;a href=&quot;http://www.catb.org/esr/faqs/hacker-howto.html&quot;&gt;How To Become A Hacker&lt;/a&gt; by Eric Steven Raymond.&lt;/p&gt;
@@ -47,7 +47,7 @@
 
 &lt;p&gt;To be a hacker for me would mean to be a good at lot of things today, to love trying different things and to have courage to explore something new and all that combined with passion. Hacker should be a good Web Developer so that would mean you should know your way in &lt;a href=&quot;http://en.wikipedia.org/wiki/HTML5&quot;&gt;HTML&lt;/a&gt; as a markup language that is presenting content of &lt;a href=&quot;http://en.wikipedia.org/wiki/World_Wide_Web&quot;&gt;WWW&lt;/a&gt;, also you would probably like to know &lt;a href=&quot;http://en.wikipedia.org/wiki/JavaScript&quot;&gt;JavaScript&lt;/a&gt; to create all that crazy dynamic stuff on your blog and a choice would also fall on &lt;a href=&quot;http://www.php.net/&quot;&gt;PHP&lt;/a&gt;. Here is also fine to notice that PHP is notorious for its security problems but people just seem to enjoy that language, HTML5 is becoming really good for creating dynamic things, videos and even fluid games, and JavaScript is on rise with its popularity because you can create cool stuff in matter of minutes with it (people developed a lot of good pieces of software with it). Also you will probably learn by the way about &lt;a href=&quot;http://en.wikipedia.org/wiki/Cascading_Style_Sheets&quot;&gt;CSS&lt;/a&gt; to improve your website look and feel.&lt;/p&gt;
 
-&lt;p&gt;Hacker should also be a great System Administrator meaning that you will be spend a lot of nights (while your girl is asleep &lt;img src=&quot;http://io/~zlatan/Minorbits/tags/perl/../../smileys/smile4.png&quot; alt=&quot;;)&quot; /&gt; ) doing stuff (mostly called scripting) in &lt;a href=&quot;http://en.wikipedia.org/wiki/Shell_(computing&quot;&gt;Shell&lt;/a&gt;), &lt;a href=&quot;http://www.perl.org/&quot;&gt;Perl&lt;/a&gt;, one of my favorites called &lt;a href=&quot;http://www.python.org/&quot;&gt;Python&lt;/a&gt; and this one you can&#39;t avoid for any serious way to be called a hacker and the name of that language is &lt;a href=&quot;http://en.wikipedia.org/wiki/C_(programming_language&quot;&gt;C&lt;/a&gt;). See how simple the name of it is. And the language is actually really simple - for a computer to understand. But computers are sometimes evil and they don&#39;t like people. Especially boring ones that just know to complain. &lt;img src=&quot;http://io/~zlatan/Minorbits/tags/perl/../../smileys/smile4.png&quot; alt=&quot;;)&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Hacker should also be a great System Administrator meaning that you will be spend a lot of nights (while your girl is asleep &lt;img src=&quot;http://io/~zlatan/Minorbits/tags/perl/../../smileys/smile4.png&quot; alt=&quot;;)&quot; /&gt; ) doing stuff (mostly called scripting) in &lt;a href=&quot;http://en.wikipedia.org/wiki/Shell_(computing&quot;&gt;Shell&lt;/a&gt; ), &lt;a href=&quot;http://www.perl.org/&quot;&gt;Perl&lt;/a&gt;, one of my favorites called &lt;a href=&quot;http://www.python.org/&quot;&gt;Python&lt;/a&gt; and this one you can&#39;t avoid for any serious way to be called a hacker and the name of that language is &lt;a href=&quot;http://en.wikipedia.org/wiki/C_(programming_language&quot;&gt;C&lt;/a&gt;. See how simple the name of it is. And the language is actually really simple - for a computer to understand. But computers are sometimes evil and they don&#39;t like people. Especially boring ones that just know to complain. &lt;img src=&quot;http://io/~zlatan/Minorbits/tags/perl/../../smileys/smile4.png&quot; alt=&quot;;)&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Sometimes hacker should really be an artist so he can develop nowdays and GUI (Graphical User Interface) for users that is appealing and doesn&#39;t look like zombie version of CLI app. Lately a nice way to make that is using &lt;a href=&quot;http://nodejs.org/&quot;&gt;nodejs&lt;/a&gt;.&lt;/p&gt;
 
@@ -59,12 +59,12 @@
 
 &lt;p&gt;After you will you are good in some of these thing, try making some app or two or go even to &lt;a href=&quot;https://projecteuler.net/&quot;&gt;Project Euler&lt;/a&gt; and try yourself out.&lt;/p&gt;
 
-&lt;h2&gt;For learning there are plenty resources out of there, online courses, Free softwares to look upon its code and contribute back to community.&lt;/h2&gt;
+&lt;p&gt;For learning there are plenty resources out there, online courses, Free softwares to look upon its code and contribute back to community.&lt;/p&gt;
 
 &lt;p&gt;And if you want my recommendations which Operating System to use - &lt;a href=&quot;http://www.debian.org/&quot;&gt;Debian&lt;/a&gt; is my choice, choice of many hackers and in general a universal operating system used by Google (its servers), NASA, RapberryPi and many others.&lt;/p&gt;
 
-&lt;pre&gt;Many alligators will be slain,
-but the swamp will remain.
+&lt;pre&gt;I love mankind ... It&#39;s people I hate.
+        -- Schulz
 &lt;/pre&gt;
 
 
